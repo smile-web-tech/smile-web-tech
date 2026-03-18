@@ -11,8 +11,7 @@ I am a **Software Engineer** and Computer Science student at **Eötvös Loránd 
 
 - 🌍  Based in **Budapest, Hungary**
 - 🎓  Studying **Computer Science** at ELTE
-- 🗣️  **English Proficiency:** Advanced (C1 Level)
-- 📱  Specializing in **Kotlin Multiplatform (KMP)** and **Jetpack Compose**
+- 📱  Specializing in **WEB** and **MOBILE development**
 - 🛠️  Currently architecting developing full-stack mobile app
 
 ---
