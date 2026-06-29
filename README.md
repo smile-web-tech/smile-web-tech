@@ -26,12 +26,6 @@ I am a **Software Engineer** and Computer Science student at **Eötvös Loránd 
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
 ---
-
-### 📊 GitHub Activity & Metrics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smile-web-tech&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=36BCF7" alt="GitHub Streak" />
-</p>
-
 ---
 
 ---
