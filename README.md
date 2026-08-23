@@ -1,22 +1,13 @@
-# 👋 Hi, I'm Ysmayyl
+# Hi, I'm Ysmayyl
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Mobile+Dev+(KMP+%2B+Compose);CS+Student+@+ELTE+Budapest" alt="Typing SVG" />
 </p>
 
 ---
-
-### 👨‍💻 Professional Profile
 I am a **Software Engineer** and Computer Science student at **Eötvös Loránd University (ELTE)**. I specialize in building robust cross-platform mobile applications and modern web ecosystems. I focus on delivering clean, maintainable code and high-performance user experiences.
 
-- 🌍  Based in **Budapest, Hungary**
-- 🎓  Studying **Computer Science** at ELTE
-- 📱  Specializing in **WEB** and **MOBILE development**
-- 🛠️  Currently architecting developing full-stack mobile app
-
----
-
-### 🛠️ Technical Toolkit
+### Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
